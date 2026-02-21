@@ -15,7 +15,7 @@ const sectionDefs = [
     tagKey: "sm.repurposing.tag",
     titleKey: "sm.repurposing.title",
     descKey: "sm.repurposing.desc",
-    image: "/technology/repurpose.png",
+    image: "/technology/repurpose.jpeg",
     imageAlt: "Drug Repurposing - AI-driven drug repurposing platform",
   },
   {
@@ -24,7 +24,7 @@ const sectionDefs = [
     tagKey: "sm.optimization.tag",
     titleKey: "sm.optimization.title",
     descKey: "sm.optimization.desc",
-    image: "/technology/molecule-innovation.png",
+    image: "/technology/molecule-innovation.jpeg",
     imageAlt: "Molecule Innovation - AI-powered molecular optimization",
   },
   {
@@ -34,7 +34,7 @@ const sectionDefs = [
     titleKey: "sm.screening.title",
     descKey: "sm.screening.desc",
     capabilities: capKeys,
-    image: "/technology/virtual-screen.png",
+    image: "/technology/virtual-screen.jpeg",
     imageAlt: "Virtual Screening - AI-driven virtual screening platform",
   },
 ]

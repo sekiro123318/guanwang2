@@ -34,7 +34,7 @@ const sectionDefs = [
     tagKey: "pep.targetBased.tag",
     titleKey: "pep.targetBased.title",
     descKey: "pep.targetBased.desc",
-    image: "/technology/target-based.png",
+    image: "/technology/target-based.jpeg",
     imageAlt: "Target-based Peptide Drug Generation",
   },
   {
@@ -43,7 +43,7 @@ const sectionDefs = [
     tagKey: "pep.iptmOptimization.tag",
     titleKey: "pep.iptmOptimization.title",
     descKey: "pep.iptmOptimization.desc",
-    image: "/technology/iptm-optimization.png",
+    image: "/technology/iptm-optimization.jpeg",
     imageAlt: "Surface IPTM-based Peptide Drug Optimization",
   },
   {
@@ -52,7 +52,7 @@ const sectionDefs = [
     tagKey: "pep.evolutionaryOptimization.tag",
     titleKey: "pep.evolutionaryOptimization.title",
     descKey: "pep.evolutionaryOptimization.desc",
-    image: "/technology/evolutionary-optimization.png",
+    image: "/technology/evolutionary-optimization.jpeg",
     imageAlt: "Evolutionary Algorithm-based Peptide Optimization",
   },
 ]

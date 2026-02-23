@@ -66,7 +66,7 @@ export function Navbar() {
             />
           </div>
           <span className="text-xl font-bold tracking-tight text-foreground">
-            angelpro
+            Angelpro
           </span>
         </Link>
 

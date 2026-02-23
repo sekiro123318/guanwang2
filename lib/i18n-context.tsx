@@ -310,7 +310,7 @@ const en: Record<string, string> = {
   "contact.infoTitle": "Get in touch",
   "contact.infoDesc": "Reach us through any of the channels below.",
   "contact.office": "Office",
-  "contact.address": "Haidian Hoping Center, Haidian District, Beijing",
+  "contact.address": "Haidian Heying Center, Haidian District, Beijing",
   "contact.emailLabel": "Email",
   "contact.phone": "Phone",
 

@@ -17,7 +17,7 @@ export function LogoBand() {
   const { t } = useI18n()
 
   return (
-    <section className="border-b border-border bg-background py-8">
+    <section className="border-b border-border bg-white py-8">
       <div className="mx-auto max-w-7xl px-4 lg:px-8">
         <p className="mb-6 text-center text-xs font-semibold uppercase tracking-wider text-muted-foreground">
           {t("logoBand.title")}

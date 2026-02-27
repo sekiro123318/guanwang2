@@ -158,8 +158,8 @@ export const galleryImages = [
 ]
 
 export const techGalleryImages = [
-  { src: "/images/gallery/crispr.jpg", alt: "CRISPR Technology - Gene editing and precision medicine" },
-  { src: "/images/gallery/heatmap.jpg", alt: "Heatmap - Data visualization and bioinformatics" },
-  { src: "/images/gallery/organoid.jpg", alt: "Organoid Technology - 3D tissue culture and disease modeling" },
-  { src: "/images/gallery/protein-folding.jpg", alt: "Protein Folding - Structural biology and computational design" },
+  { src: "/images/gallery/fig_1772202157.jpeg", alt: "CRISPR Technology - Gene editing and precision medicine" },
+  { src: "/images/gallery/fig_1772202038.jpeg", alt: "Heatmap - Data visualization and bioinformatics" },
+  { src: "/images/gallery/fig_1772201912.jpeg", alt: "Organoid Technology - 3D tissue culture and disease modeling" },
+  { src: "/images/gallery/fig_1772201758.jpeg", alt: "Protein Folding - Structural biology and computational design" },
 ]

@@ -13,10 +13,6 @@ export function Footer() {
       { href: "/technology", label: t("nav.technology") },
       { href: "/pipeline", label: t("nav.pipeline") },
     ],
-    [t("footer.resources")]: [
-      { href: "/contact", label: t("nav.contact") },
-      { href: "/contact", label: t("footer.partnerships") },
-    ],
   }
 
   return (

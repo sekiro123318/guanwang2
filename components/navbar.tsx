@@ -13,7 +13,6 @@ const linkKeys = [
   { href: "/", key: "nav.home" },
   { href: "/pipeline", key: "nav.pipeline" },
   { href: "/news", key: "nav.news" },
-  { href: "/contact", key: "nav.contact" },
 ]
 
 const techPlatforms = [

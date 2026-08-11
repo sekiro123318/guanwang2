@@ -58,7 +58,6 @@ const en: Record<string, string> = {
   "nav.technology": "Technology",
   "nav.pipeline": "Pipeline",
   "nav.news": "News",
-  "nav.contact": "Contact",
 
   // Hero
   "hero.badge": "AI-Powered Drug Discovery",
@@ -300,29 +299,6 @@ const en: Record<string, string> = {
   "partners.desc": "Collaborating with the world's leading pharmaceutical and biotech companies.",
   "partners.cta": "Discuss a Partnership",
 
-  // Contact page
-  "contact.breadcrumb": "Contact",
-  "contact.heroTitle": "Contact Us",
-  "contact.heroDesc": "Have questions about our technology, pipeline, or partnership opportunities? We would love to hear from you.",
-  "contact.formTitle": "Send us a message",
-  "contact.formDesc": "Fill out the form and our team will respond within 24 hours.",
-  "contact.msgSent": "Message sent!",
-  "contact.msgSentDesc": "Thank you for reaching out. Our team will get back to you shortly.",
-  "contact.fullName": "Full Name",
-  "contact.email": "Email Address",
-  "contact.organization": "Organization",
-  "contact.message": "Message",
-  "contact.namePlaceholder": "Dr. Jane Smith",
-  "contact.emailPlaceholder": "jane@company.com",
-  "contact.orgPlaceholder": "Pharma Corp",
-  "contact.msgPlaceholder": "Tell us about your interest in our technology or partnership opportunities...",
-  "contact.send": "Send Message",
-  "contact.infoTitle": "Get in touch",
-  "contact.infoDesc": "Reach us through any of the channels below.",
-  "contact.office": "Office",
-  "contact.address": "Haidian Heying Center, Haidian District, Beijing",
-  "contact.emailLabel": "Email",
-  "contact.phone": "Phone",
 
   // Partnership inquiries
   "partnership.title": "Partnership Inquiries",
@@ -597,29 +573,6 @@ const zh: Record<string, string> = {
   "partners.desc": "\u4e0e\u5168\u7403\u9886\u5148\u7684\u5236\u836f\u548c\u751f\u7269\u6280\u672f\u516c\u53f8\u5408\u4f5c\u3002",
   "partners.cta": "\u8ba8\u8bba\u5408\u4f5c",
 
-  // Contact page
-  "contact.breadcrumb": "\u8054\u7cfb\u6211\u4eec",
-  "contact.heroTitle": "\u8054\u7cfb\u6211\u4eec",
-  "contact.heroDesc": "\u5bf9\u6211\u4eec\u7684\u6280\u672f\u3001\u7ba1\u7ebf\u6216\u5408\u4f5c\u673a\u4f1a\u6709\u7591\u95ee\uff1f\u6211\u4eec\u5f88\u4e50\u610f\u542c\u53d6\u60a8\u7684\u610f\u89c1\u3002",
-  "contact.formTitle": "\u53d1\u9001\u6d88\u606f",
-  "contact.formDesc": "\u586b\u5199\u8868\u5355\uff0c\u6211\u4eec\u7684\u56e2\u961f\u5c06\u572824\u5c0f\u65f6\u5185\u56de\u590d\u3002",
-  "contact.msgSent": "\u6d88\u606f\u5df2\u53d1\u9001\uff01",
-  "contact.msgSentDesc": "\u611f\u8c22\u60a8\u7684\u8054\u7cfb\u3002\u6211\u4eec\u7684\u56e2\u961f\u5c06\u5c3d\u5feb\u56de\u590d\u60a8\u3002",
-  "contact.fullName": "\u59d3\u540d",
-  "contact.email": "\u7535\u5b50\u90ae\u4ef6",
-  "contact.organization": "\u7ec4\u7ec7\u673a\u6784",
-  "contact.message": "\u6d88\u606f\u5185\u5bb9",
-  "contact.namePlaceholder": "\u5f20\u4e09",
-  "contact.emailPlaceholder": "zhangsan@company.com",
-  "contact.orgPlaceholder": "\u5236\u836f\u516c\u53f8",
-  "contact.msgPlaceholder": "\u8bf7\u544a\u8bc9\u6211\u4eec\u60a8\u5bf9\u6211\u4eec\u6280\u672f\u6216\u5408\u4f5c\u673a\u4f1a\u7684\u5174\u8da3...",
-  "contact.send": "\u53d1\u9001\u6d88\u606f",
-  "contact.infoTitle": "\u8054\u7cfb\u65b9\u5f0f",
-  "contact.infoDesc": "\u901a\u8fc7\u4ee5\u4e0b\u4efb\u4f55\u6e20\u9053\u8054\u7cfb\u6211\u4eec\u3002",
-  "contact.office": "\u529e\u516c\u5ba4",
-  "contact.address": "\u6d77\u6dc0\u548c\u76c8\u4e2d\u5fc3\uff0c\u5317\u4eac\u5e02\u6d77\u6dc0\u533a",
-  "contact.emailLabel": "\u7535\u5b50\u90ae\u4ef6",
-  "contact.phone": "\u7535\u8bdd",
 
   // Partnership inquiries
   "partnership.title": "\u5408\u4f5c\u54a8\u8be2",
